@@ -1,0 +1,22 @@
+{
+  "name": "playwright-starter-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janpfajfr/playwright-starter-pack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janpfajfr/playwright-starter-pack/issues"
+  },
+  "homepage": "https://github.com/janpfajfr/playwright-starter-pack#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.25"
+  }
+}
